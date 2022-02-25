@@ -4,7 +4,7 @@
 write a one-liner that will count the number of capital letters in a file.
 #### INPUT DATA:
 FILE(s): 
-> letters.txt
+> [letters.txt](letters.txt)
 
 #### OUTPUT:
 ```python
@@ -30,10 +30,11 @@ python full_names.py
 
 ## 3. Divide a csv in ‘n’ chunks and create ‘n’ new csv files.
 #### INPUT DATA:
-> FILE(s): sample.csv
+FILE(s):
+> [sample.csv](sample.csv)
 
 #### OUTPUT:
-Refer [csv_data_chunking.ipynb](csv_data_chunking.ipynb) notebook for CSV data processing and csv_output directory containing chunked CSV files.
+Refer [csv_data_chunking.ipynb](csv_data_chunking.ipynb) notebook for CSV data processing and [csv_output](csv_output) directory containing chunked CSV files.
 
 ## 4. Calculate difference between following dates.
 #### INPUT DATA:
@@ -54,7 +55,7 @@ python date_time_diff.py
 number of lines in which the string has occurred.
 #### INPUT DATA:
 FILE(s): 
-> letters.txt
+> [letters.txt](letters.txt)
 
 #### OUTPUT:
 ```sh
