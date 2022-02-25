@@ -33,7 +33,7 @@ python full_names.py
 > FILE(s): sample.csv
 
 #### OUTPUT:
-Refer csv_data_chunking.ipynb notebook for CSV data processing and csv_output directory containing chunked CSV files.
+Refer [csv_data_chunking.ipynb](csv_data_chunking.ipynb) notebook for CSV data processing and csv_output directory containing chunked CSV files.
 
 ## 4. Calculate difference between following dates.
 #### INPUT DATA:
