@@ -10,7 +10,7 @@ FILE(s):
 ```python
 python capital_letters.py
 ```
-![capital_letters]("images/capital_letters.png")
+![capital_letters](images/capital_letters.png)
 
 ## 2. Convert dictionary containing key-value paired full names to a list of full names.
 #### INPUT DATA:
@@ -26,7 +26,7 @@ python capital_letters.py
 ```python
 python full_names.py
 ```
-![full_names]("images/full_names.png")
+![full_names](images/full_names.png)
 
 ## 3. Divide a csv in ‘n’ chunks and create ‘n’ new csv files.
 #### INPUT DATA:
@@ -48,15 +48,16 @@ Refer csv_data_chunking.ipynb notebook for CSV data processing and csv_output di
 ```python
 python date_time_diff.py
 ```
-![date_time_diff]("images/date_time_diff.png")
+![date_time_diff](images/date_time_diff.png)
 
 ## 5. Write a shell script or list commands to search a string in a text file and count the
 number of lines in which the string has occurred.
 #### INPUT DATA:
-> FILE(s): letters.txt
+FILE(s): 
+> letters.txt
 
 #### OUTPUT:
 ```sh
 ./count_string.sh
 ```
-![count_string]("images/count_string.png")
+![count_string](images/count_string.png)
