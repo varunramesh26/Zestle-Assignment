@@ -34,7 +34,7 @@ FILE(s):
 > [sample.csv](sample.csv)
 
 #### OUTPUT:
-Refer [csv_data_chunking.ipynb](csv_data_chunking.ipynb) notebook for CSV data processing and [csv_output](csv_output) directory containing chunked CSV files.
+Refer [csv_data_chunking.ipynb](csv_data_chunking.ipynb) notebook for CSV data processing and [csv_outputs](csv_outputs) directory containing chunked CSV files.
 
 ## 4. Calculate difference between following dates.
 #### INPUT DATA:
